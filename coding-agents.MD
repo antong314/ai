@@ -5,3 +5,5 @@
 
 #CLI
 * https://github.com/charmbracelet/fang?utm_source=changelog-news
+
+https://github.com/manaflow-ai/cmux
