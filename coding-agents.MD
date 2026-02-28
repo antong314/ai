@@ -7,3 +7,6 @@
 * https://github.com/charmbracelet/fang?utm_source=changelog-news
 
 https://github.com/manaflow-ai/cmux
+
+#Claude
+* https://github.com/mrocklin/claudechic?tab=readme-ov-file Claude Chic <-- TUI Textual lib
