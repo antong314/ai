@@ -1,6 +1,7 @@
 #AI Coding Agents to Watch:
 * https://github.com/charmbracelet/crush
 * https://www.augmentcode.com/install
+* https://runmaestro.ai/
 
 #CLI
 * https://github.com/charmbracelet/fang?utm_source=changelog-news
